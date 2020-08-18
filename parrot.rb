@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot(phrase = "Squawk!")
   chirp = phrase
-  puts ()
+  puts (phrase)
 end
